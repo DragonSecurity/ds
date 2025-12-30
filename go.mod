@@ -1,6 +1,6 @@
 module github.com/dragonsecurity/ds
 
-go 1.25
+go 1.25.5
 
 require (
 	github.com/Masterminds/sprig/v3 v3.3.0
@@ -8,7 +8,7 @@ require (
 	github.com/goccy/go-yaml v1.19.1
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.10.2
-	github.com/spf13/pflag v1.0.9
+	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.18.0
 )
